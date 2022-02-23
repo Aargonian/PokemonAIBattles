@@ -1,0 +1,15 @@
+{
+  "name": "pokemonaibattles",
+  "version": "0.1.0",
+  "description": "Electron Client for testing Pokemon Battle AI",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Aaron Helton & Timothy Davis",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.0"
+  }
+}
